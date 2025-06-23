@@ -1,0 +1,86 @@
+{
+  "word": "fill",
+  "partOfSpeech": "v.",
+  "definition": "装满，占满，填补，满足，派人担任",
+  "sourcedefinition": "to make something full of something; to become full of something",
+  "examples": [
+    {
+      "sentence": "He filled up his car.",
+      "meaning": "他给他的车加满了油。"
+    },
+    {
+      "sentence": "The cup is filled with juice.",
+      "meaning": "这个杯子里装满了果汁。"
+    },
+    {
+      "sentence": "He fills the bottle with pills.",
+      "meaning": "他用药丸装满瓶子。"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fill up",
+      "meaning": "装满"
+    },
+    {
+      "phrase": "fill with",
+      "meaning": "充满，装满"
+    },
+    {
+      "phrase": "fill in",
+      "meaning": "填写"
+    }
+  ],
+  "forms": {
+    "thirdPerson": "fills",
+    "presentParticiple": "filling",
+    "pastTense": "filled",
+    "pastParticiple": "filled"
+  },
+  "similarForms": ["will","till","file"],
+  "rootForms": ["filling","filler"],
+  "antonyms": ["empty"],
+  "sourceLang": "en",
+  "targetLang": "zh"
+}
+
+{
+  "word": "ordinary",
+  "partOfSpeech": "adj.",
+  "definition": "普通的，平常的，平淡的，平庸的，常规的",
+  "sourcedefinition": "not unusual or different in any way",
+  "examples": [
+    {
+      "sentence": "I'm just an ordinary man.",
+      "meaning": "我只是一个普通的男人。"
+    },
+    {
+      "sentence": "Ordinary people like you and me can live a simple and happy life.",
+      "meaning": "像你我这样的普通人可以过着简单幸福的生活。"
+    },
+    {
+      "sentence": "This dictionary is quite ordinary.",
+      "meaning": "这本字典很普通。"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the ordinary way",
+      "meaning": "就通常情况而言"
+    },
+    {
+      "phrase": "ordinary life",
+      "meaning": "普通生活"
+    },
+    {
+      "phrase": "out of the ordinary",
+      "meaning": "不寻常"
+    }
+  ],
+  "similarForms": ["culinary","ordinate","ordinance"],
+  "rootForms": ["ordinarily"],
+  "synonyms": ["common"],
+  "antonyms": ["extraordinary","special","unusual"],
+  "sourceLang": "en",
+  "targetLang": "zh"
+}
